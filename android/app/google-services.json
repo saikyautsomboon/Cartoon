@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662573180726",
+    "project_id": "cartoonex-1ffa0",
+    "storage_bucket": "cartoonex-1ffa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662573180726:android:7e19d7377eae81333a7597",
+        "android_client_info": {
+          "package_name": "com.example.cartoonex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662573180726-af40jr6kt3l58fsai529401502igllt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl-27jhDmjEj5YwLN7uLrSCPVLcZ7amxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662573180726-af40jr6kt3l58fsai529401502igllt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
